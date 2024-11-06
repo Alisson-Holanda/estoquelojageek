@@ -1,7 +1,7 @@
 #Estoque loja GEEK NERD
 os import
 os.system
-
+alisson mexendo
 estoque = []
 
 while True:
