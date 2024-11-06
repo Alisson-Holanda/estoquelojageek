@@ -1,7 +1,7 @@
 #Estoque loja GEEK NERD
 os import
 os.system
-
+lokuhybtvghvrtyghjb6tvyubh
 estoque = []
 
 while True:
